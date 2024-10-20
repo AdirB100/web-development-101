@@ -1,0 +1,10 @@
+* container tags vs empty tags
+* block elements vs inline elements
+* The <body> container tag is used to group everything that gets displayed on a page. They
+  are needed for the page to be compatible with all web browsers. A web page can contain only one
+  body element.
+* When some HTML tags go inside others, this is called nesting.
+* The <head> container tag is used to include technical information about the page.
+* HyperText is text that contains a link to another page. Web pages are called HyperText
+  documents because they are conntected by HyperText links (or hyperlinks).
+* You can nest hyperlinks inside other text elements, like <p>.
